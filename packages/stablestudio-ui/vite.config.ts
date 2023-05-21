@@ -19,7 +19,7 @@ export default defineConfig(({ mode }) => {
     build: { target: "es2020" },
 
     server: {
-      port: 3000,
+      port: 3003,
       fs: { strict: false },
     },
 
